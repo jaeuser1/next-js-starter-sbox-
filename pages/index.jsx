@@ -19,7 +19,7 @@ export default function Home({ menuItems, posts }) {
 					className="text-blue-600 no-underline hover:underline"
 					href="https://nextjs.org"
 				>
-					Next.js! mod from main
+					Next.js! mod from pr
 				</a>
 			</h1>
 
